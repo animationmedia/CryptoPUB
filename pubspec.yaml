@@ -1,8 +1,8 @@
 name: cryptlib
 description: This plugin is interfacing Cryptlib library in flutter
 version: 0.0.3
-homepage: https://github.com/nooralam6/Cross-Platform-AES/
-repository: https://github.com/nooralam6/Cross-Platform-AES/
+homepage: https://github.com/animationmedia/cryptlib.git
+repository: https://github.com/animationmedia/cryptlib.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
